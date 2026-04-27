@@ -1,0 +1,2 @@
+"""TinyTransformer Visualizer package."""
+

@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.idea/
+.venv/
+.pytest_cache/
+
+checkpoints/model.pt
+checkpoints/vocab.json
+checkpoints/config.json
+
+*.png
